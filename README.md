@@ -7,7 +7,9 @@ this is some info **about** my project
 click *here* to go to  [link](http://google.com)
 
 加点东西
-a bunch of new stuff 
+a bunch of new stuff
+更多东西
+超多东西
 <!-- //link to image也是这个写法 -->
 <!-- //方括号里的字可以改 就随心命名 -->
 
