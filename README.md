@@ -10,6 +10,11 @@ click *here* to go to  [link](http://google.com)
 a bunch of new stuff
 更多东西
 超多东西
+
+哇还要加 可还行
+比比波波
+哔哔啵啵哔哔
+
 <!-- //link to image也是这个写法 -->
 <!-- //方括号里的字可以改 就随心命名 -->
 
